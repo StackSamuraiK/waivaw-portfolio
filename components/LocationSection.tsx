@@ -52,7 +52,7 @@ const LocationSection: React.FC = () => {
           </div>
         </div>
 
-        <a href="https://www.instagram.com/vai05" target='_blank'>
+        <a href="https://www.instagram.com/vai05" target='_blank' className="block mt-8">
           <button className="w-full sm:w-auto px-12 py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-2xl font-black uppercase tracking-[0.2em] text-xs hover:shadow-2xl hover:-translate-y-1 transition-all">
             Get In Touch
           </button>
