@@ -1,0 +1,7 @@
+{
+  "name": "waivaw-portfolio",
+  "description": "A high-end, modern portfolio featuring interactive analytics, a curated gallery, and localized map details, built with React, TypeScript, and Framer Motion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
